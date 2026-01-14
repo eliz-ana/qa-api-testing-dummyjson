@@ -1,0 +1,6 @@
+{
+    "id": 195,
+    "title": "Invalid price product",
+    "price": "abc",
+    "description": "Price is a string"
+}
