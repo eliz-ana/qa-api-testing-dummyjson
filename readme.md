@@ -1,11 +1,11 @@
 # QA Manual API Testing — DummyJSON
 
-This project demonstrates manual functional API testing of a public REST API using Postman, with a focus on backend validation, error handling, and real API behavior.
+This repository is part of my QA portfolio and demonstrates **manual functional API testing** of a public REST API using **Postman**, with a focus on backend validation, error handling, and real API behavior.
 
 ## 📌 Project Overview
-The goal of this project is to design and execute manual test cases for selected API endpoints, validate expected and unexpected behaviors, document results, and report defects based on actual responses from the API.
+The goal of this project is to design and execute manual test cases for selected REST API endpoints, validate both expected and unexpected behaviors, document results, and report defects based on actual API responses.
 
-This project is intended to showcase QA manual skills applied to REST APIs.
+This project showcases **QA Manual skills applied to REST APIs**, including test design, execution, and defect reporting.
 
 ## 🔧 Tools Used
 - Postman
@@ -45,3 +45,9 @@ qa-api-testing-dummyjson/
 
 The `/postman` folder contains the exported Postman collection used to execute all manual API test cases.  
 It can be imported directly into Postman to review or re-run the tests.
+
+## ▶️ How to Review the Tests
+
+1. Import the Postman collection from the `/postman` folder into Postman  
+2. Review test cases and scenarios in `test-cases.md`  
+3. Check documented issues in `bug-reports.md` along with supporting evidence
