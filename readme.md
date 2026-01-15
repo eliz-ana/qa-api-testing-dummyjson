@@ -40,3 +40,8 @@ qa-api-testing-dummyjson/
 ├── test-cases.md
 ├── bug-reports.md
 └── evidence/
+```
+## 🧩 Postman Collection
+
+The `/postman` folder contains the exported Postman collection used to execute all manual API test cases.  
+It can be imported directly into Postman to review or re-run the tests.
